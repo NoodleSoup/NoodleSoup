@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **NoodleSoup/NoodleSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on: [GoLang bot for Telegram](https://github.com/NoodleSoup/HarukaX)
+🌱 I’m currently learning: GoLang & DevOps
+💬 Ask me about anything, really.
+⚡ Fun fact: My favourite food is not my username ;)
+
+[![NoodleSoup's github stats](https://github-readme-stats.vercel.app/api?username=NoodleSoup&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)

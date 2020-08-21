@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 💬 Ask me about anything, really.\
 ⚡ Fun fact: My favourite food is not my username ;)\
 \
-[![NoodleSoup's github stats](https://github-readme-stats.vercel.app/api?username=NoodleSoup&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![NoodleSoup's github stats](https://github-readme-stats.vercel.app/api?username=NoodleSoup&count_private=true&show_icons=true&theme=vue)](https://github.com/NoodleSoup)

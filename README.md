@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on: [GoLang bot for Telegram](https://github.com/NoodleSoup/HarukaX)\
-🌱 I’m currently learning: GoLang & DevOps\
+🔭 I’m currently working on: ...\
+🌱 I’m currently learning: Nuxt 3, C#\
 💬 Ask me about anything, really.\
 ⚡ Fun fact: My favourite food is not my username ;)\
 \
